@@ -1,0 +1,14 @@
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\obj\Debug\netcoreapp3.1\oopsAssingment2.csproj.AssemblyReference.cache
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\obj\Debug\netcoreapp3.1\oopsAssingment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\obj\Debug\netcoreapp3.1\oopsAssingment2.AssemblyInfoInputs.cache
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\obj\Debug\netcoreapp3.1\oopsAssingment2.AssemblyInfo.cs
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\obj\Debug\netcoreapp3.1\oopsAssingment2.csproj.CoreCompileInputs.cache
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\bin\Debug\netcoreapp3.1\oopsAssingment2.exe
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\bin\Debug\netcoreapp3.1\oopsAssingment2.deps.json
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\bin\Debug\netcoreapp3.1\oopsAssingment2.runtimeconfig.json
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\bin\Debug\netcoreapp3.1\oopsAssingment2.runtimeconfig.dev.json
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\bin\Debug\netcoreapp3.1\oopsAssingment2.dll
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\bin\Debug\netcoreapp3.1\oopsAssingment2.pdb
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\obj\Debug\netcoreapp3.1\oopsAssingment2.dll
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\obj\Debug\netcoreapp3.1\oopsAssingment2.pdb
+C:\Users\NIKAKADE\source\repos\oopsAssingment2\oopsAssingment2\obj\Debug\netcoreapp3.1\oopsAssingment2.genruntimeconfig.cache
