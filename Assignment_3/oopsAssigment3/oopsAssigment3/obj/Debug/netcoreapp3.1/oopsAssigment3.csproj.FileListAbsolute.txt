@@ -1,0 +1,14 @@
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\bin\Debug\netcoreapp3.1\oopsAssigment3.exe
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\bin\Debug\netcoreapp3.1\oopsAssigment3.deps.json
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\bin\Debug\netcoreapp3.1\oopsAssigment3.runtimeconfig.json
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\bin\Debug\netcoreapp3.1\oopsAssigment3.runtimeconfig.dev.json
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\bin\Debug\netcoreapp3.1\oopsAssigment3.dll
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\bin\Debug\netcoreapp3.1\oopsAssigment3.pdb
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\obj\Debug\netcoreapp3.1\oopsAssigment3.csproj.AssemblyReference.cache
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\obj\Debug\netcoreapp3.1\oopsAssigment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\obj\Debug\netcoreapp3.1\oopsAssigment3.AssemblyInfoInputs.cache
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\obj\Debug\netcoreapp3.1\oopsAssigment3.AssemblyInfo.cs
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\obj\Debug\netcoreapp3.1\oopsAssigment3.csproj.CoreCompileInputs.cache
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\obj\Debug\netcoreapp3.1\oopsAssigment3.dll
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\obj\Debug\netcoreapp3.1\oopsAssigment3.pdb
+C:\Users\NIKAKADE\source\repos\oopsAssigment3\oopsAssigment3\obj\Debug\netcoreapp3.1\oopsAssigment3.genruntimeconfig.cache
