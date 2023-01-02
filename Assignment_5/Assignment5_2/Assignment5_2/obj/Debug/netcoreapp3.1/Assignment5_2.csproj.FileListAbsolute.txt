@@ -1,0 +1,14 @@
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\bin\Debug\netcoreapp3.1\Assignment5_2.exe
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\bin\Debug\netcoreapp3.1\Assignment5_2.deps.json
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\bin\Debug\netcoreapp3.1\Assignment5_2.runtimeconfig.json
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\bin\Debug\netcoreapp3.1\Assignment5_2.runtimeconfig.dev.json
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\bin\Debug\netcoreapp3.1\Assignment5_2.dll
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\bin\Debug\netcoreapp3.1\Assignment5_2.pdb
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\obj\Debug\netcoreapp3.1\Assignment5_2.csproj.AssemblyReference.cache
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\obj\Debug\netcoreapp3.1\Assignment5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\obj\Debug\netcoreapp3.1\Assignment5_2.AssemblyInfoInputs.cache
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\obj\Debug\netcoreapp3.1\Assignment5_2.AssemblyInfo.cs
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\obj\Debug\netcoreapp3.1\Assignment5_2.csproj.CoreCompileInputs.cache
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\obj\Debug\netcoreapp3.1\Assignment5_2.dll
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\obj\Debug\netcoreapp3.1\Assignment5_2.pdb
+C:\Users\NIKAKADE\source\repos\Assignment5_2\Assignment5_2\obj\Debug\netcoreapp3.1\Assignment5_2.genruntimeconfig.cache
