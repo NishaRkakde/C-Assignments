@@ -1,0 +1,7 @@
+C:\Users\NIKAKADE\source\repos\Assignment_6_Q3\Assignment_6_Q3\bin\Debug\Assignment_6_Q3.exe.config
+C:\Users\NIKAKADE\source\repos\Assignment_6_Q3\Assignment_6_Q3\bin\Debug\Assignment_6_Q3.exe
+C:\Users\NIKAKADE\source\repos\Assignment_6_Q3\Assignment_6_Q3\bin\Debug\Assignment_6_Q3.pdb
+C:\Users\NIKAKADE\source\repos\Assignment_6_Q3\Assignment_6_Q3\obj\Debug\Assignment_6_Q3.csproj.AssemblyReference.cache
+C:\Users\NIKAKADE\source\repos\Assignment_6_Q3\Assignment_6_Q3\obj\Debug\Assignment_6_Q3.csproj.CoreCompileInputs.cache
+C:\Users\NIKAKADE\source\repos\Assignment_6_Q3\Assignment_6_Q3\obj\Debug\Assignment_6_Q3.exe
+C:\Users\NIKAKADE\source\repos\Assignment_6_Q3\Assignment_6_Q3\obj\Debug\Assignment_6_Q3.pdb
